@@ -19,4 +19,5 @@
 | 01  |  Introduction |
 | 02  |  Working with Data |
 | 03  |  Data Visualizations | 
+| 04  |  Regression | 
 
