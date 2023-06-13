@@ -22,4 +22,5 @@
 | 04  |  Regression | 
 | 05  |  Classification | 
 | 06  |  Clustering |
+| 07  |  NLP |
 
