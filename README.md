@@ -13,7 +13,7 @@
  
  Arewa Data Science Machine Learning for Beginners is one of the basic reuirements for Data Science journey in Arewa Data Science Academy. 
  
- All anwsers to weekly excercises are posted here. The Excercises covered so far are:
+ All attempts to weekly excercises are posted here. The Excercises covered so far are:
 |# Week | Topics                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  Introduction |
