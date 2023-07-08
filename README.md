@@ -23,4 +23,7 @@
 | 05  |  Classification | 
 | 06  |  Clustering |
 | 07  |  NLP |
+| 08  |  Sentiment Analysis |
+| 09  |  Time Series Forcasting |
+| 10  |  Reinforcement Learning |
 
